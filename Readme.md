@@ -1,4 +1,4 @@
-# PROBLEM : Restict the entry of unwanted visitors/ Intruders
+# PROBLEM : Restrict the entry of unwanted visitors/ Intruders
 
 This is the main module for the solution of my suggested problem.
 This module can be used in order to store the images of the visitors so that the overhead of sending requests every time for that particular visitor will be reduced.
