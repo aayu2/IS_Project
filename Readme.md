@@ -7,7 +7,7 @@ This module can be used in order to store the images of the visitors so that the
 
 I have implemeted Face Recognition using OpenCV in Python
 
-#### install opencv-contrib-python package
+#### install: opencv-contrib-python package
 
 ##### python tester.py
 
